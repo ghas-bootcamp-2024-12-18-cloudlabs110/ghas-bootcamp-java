@@ -47,7 +47,7 @@ Click `Set up code scanning`.
 
 <img src="images/01-repo-secruity-setup-code-scanning.png" width="70%"/>
 
-#### Setup Workflow
+#### Setup Workflow 
 
 Click the `Setup this workflow` button by CodeQL Analysis.
 
